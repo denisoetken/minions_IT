@@ -1,0 +1,169 @@
+[
+  {
+    "Thema": "Kreuz bauen",
+    "Beginn": "01.04.0033 10:00",
+    "Minions": [
+      "Kevin",
+      "Bob"
+    ],
+    "Dauer": 7200000,
+    "Ort": "Jerusalem"
+  },
+  {
+    "Thema": "Ukulele spielen",
+    "Beginn": "11.02.2016 08:00",
+    "Minions": [
+      "Stuart"
+    ],
+    "Dauer": 7200000,
+    "Ort": "Geb. 14"
+  },
+  {
+    "Thema": "Exkursion LRZ",
+    "Beginn": "11.02.2016 08:00",
+    "Minions": [
+      "Kevin",
+      "Bob"
+    ],
+    "Dauer": 28800000,
+    "Ort": "LRZ Garching"
+  },
+  {
+    "Thema": "Plan verkünden",
+    "Beginn": "01.05.2017 08:00",
+    "Minions": [
+      "Kevin"
+    ],
+    "Dauer": 7200000,
+    "Ort": "Eishöhle"
+  },
+  {
+    "Thema": "Freiwillig melden",
+    "Beginn": "01.05.2017 10:00",
+    "Minions": [
+      "Stuart"
+    ],
+    "Dauer": 3600000,
+    "Ort": "Eishöhle"
+  },
+  {
+    "Thema": "Neuen Schurken suchen",
+    "Beginn": "01.05.2017 12:00",
+    "Minions": [
+      "Kevin"
+    ],
+    "Dauer": 28800000,
+    "Ort": "Eishöhle"
+  },
+  {
+    "Thema": "Rubin stehlen",
+    "Beginn": "02.05.2017 08:00",
+    "Minions": [
+      "Kevin",
+      "Bob",
+      "Stuart"
+    ],
+    "Dauer": 14400000,
+    "Ort": "Orlando"
+  },
+  {
+    "Thema": "Krone stehlen",
+    "Beginn": "02.05.2017 16:00",
+    "Minions": [
+      "Kevin",
+      "Bob",
+      "Stuart"
+    ],
+    "Dauer": 7200000,
+    "Ort": "London"
+  },
+  {
+    "Thema": "Schwert Exkalibur ziehen",
+    "Beginn": "02.05.2017 17:30",
+    "Minions": [
+      "Bob"
+    ],
+    "Dauer": 3600000,
+    "Ort": "London"
+  },
+  {
+    "Thema": "Krönung zum König",
+    "Beginn": "03.05.2017 12:00",
+    "Minions": [
+      "Bob"
+    ],
+    "Dauer": 28800000,
+    "Ort": "London"
+  },
+  {
+    "Thema": "Abdanken",
+    "Beginn": "04.05.2017 12:00",
+    "Minions": [
+      "Kevin"
+    ],
+    "Dauer": 7200000,
+    "Ort": "London"
+  },
+  {
+    "Thema": "Gefoltert werden",
+    "Beginn": "05.05.2017 00:00",
+    "Minions": [
+      "Bob",
+      "Stuart"
+    ],
+    "Dauer": 39600000,
+    "Ort": "Kerker von Herb Overkill"
+  },
+  {
+    "Thema": "Welt retten",
+    "Beginn": "05.05.2017 13:00",
+    "Minions": [
+      "Kevin"
+    ],
+    "Dauer": 39600000,
+    "Ort": "London"
+  },
+  {
+    "Thema": "Ausschlafen",
+    "Beginn": "06.05.2017 00:00",
+    "Minions": [
+      "Kevin",
+      "Stuart",
+      "Bob"
+    ],
+    "Dauer": 28800000,
+    "Ort": "Grus Villa"
+  },
+  {
+    "Thema": "Mit Gru ins Kino gehen",
+    "Beginn": "06.05.2017 16:00",
+    "Minions": [
+      "Kevin",
+      "Stuart",
+      "Bob"
+    ],
+    "Dauer": 14400000,
+    "Ort": "London"
+  },
+  {
+    "Thema": "Zusammen spielen",
+    "Beginn": "07.05.2017 10:00",
+    "Minions": [
+      "Kevin",
+      "Bob"
+    ],
+    "Dauer": 14400000,
+    "Ort": "Grus Keller"
+  },
+  {
+    "Thema": "Zusammen singen",
+    "Beginn": "07.05.2017 19:00",
+    "Minions": [
+      "Kevin",
+      "Stuart",
+      "Bob"
+    ],
+    "Dauer": 7200000,
+    "Ort": "Grus Keller"
+  }
+]
