@@ -17,22 +17,18 @@
             margin: 5px;
             float: left;
         }
-
         table {
             border-collapse: inherit;
             border-spacing: inherit;
             border: 1px solid black;
         }
-
-        th {
+        th{
             border: 1px solid black;
         }
-
-        td {
+        td{
             border: 1px solid black;
         }
-
-        #ausgabe {
+        #ausgabe{
             border: 1px solid black;
             width: 500px;
             height: 300px;
@@ -43,8 +39,7 @@
 <h1>Kalender</h1>
 <div>
     <h3>Ausgabe Bereich</h3>
-    <button type="button" id="getInformationButton">Lade Informationen</button>
-    <br>
+    <button type="button" id="getInformationButton">Lade Informationen</button><br>
     <table>
         <thead>
         <tr>
@@ -56,7 +51,7 @@
             <th>Ändern</th>
         </tr>
         </thead>
-        <tbody id="tabellenBody">
+        <tbody id="tableBody">
 
         </tbody>
     </table>
